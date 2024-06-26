@@ -18,12 +18,13 @@ Example Input File
 (3,4,3,1)
 (9,3,1,1)
 (8,4,2,1)
-```
+
+Note:
 Line 1: [rows, columns]
 Line 2 - start position: (row, column)
 Line 3 - goal positions: (row, column) | (row, column)
 From line 4 - obstacle: (row, column, width, height)
-
+```
 
 ## Demo
 ![search](media/search.gif)

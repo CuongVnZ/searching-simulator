@@ -26,7 +26,7 @@ From line 4 - obstacle: (row, column, width, height)
 
 
 ## Demo
-![search](search.gif)
+![search](media/search.gif)
 
 ## Authors
 Chi Cuong Nguyen
